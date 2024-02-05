@@ -3,8 +3,8 @@ export default function ContactMe() {
     <section id="Contact" className="contact--section">
       <div>
         <p className="sub--title">Get In Touch</p>
-        <h1>Contact Me</h1>
-        <p>itzabygeorge@gmail.com</p>
+        <h1 className="contact-text">Contact Me</h1>
+        <p  className="contact-text">itzabygeorge@gmail.com</p>
       </div>
       <form className="contact--form--container">
         <div className="container">
