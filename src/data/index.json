@@ -1,0 +1,103 @@
+{
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./image/discount.png",
+      "title": "Discout Calculator",
+      "description": "A discount Calculator created using React and MaterialUI.",
+      "rlink": "https://github.com/AbyG1/Discount-calculator",
+      "llink": "https://discount-calculator-abygeorge.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./image/weather.png",
+      "title": "Weather App",
+      "description": "Weather App created using React and Openweathermap API.",
+      "rlink": "https://github.com/AbyG1/Weather-app/tree/main/Weather-app",
+      "llink": "https://weatherapp-abygeorge.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./image/doctor.png",
+      "title": "Doctor App",
+      "description": "A Doctor App to view doctor's details, created using React and Json server.",
+      "rlink": "https://github.com/AbyG1/Doctor-appointment-frontend",
+      "llink": "https://doctris-app-abygeorge.netlify.app/"
+    },
+    {
+      "id": "4",
+      "src": "./image/restaurant.png",
+      "title": "Restaurant App",
+      "description": "A Reataurant App to view restaurant details, created using React and Json server.",
+      "rlink": "https://github.com/AbyG1/Restaurant-app",
+      "llink": "https://restaurant-app-abygeorge.netlify.app/"
+    },
+    {
+      "id": "5",
+      "src": "./image/bmi.png",
+      "title": "BMI Calculator",
+      "description": "A BMI calculator created usng Javascript.",
+      "rlink": "https://github.com/AbyG1/js-projects-luminar/tree/main/bmi-calculator",
+      "llink": "https://magical-taffy-215dd2.netlify.app/"
+    },
+    {
+      "id": "6",
+      "src": "./image/calculator.png",
+      "title": "Simple Calculator",
+      "description": "A calculator app using Javascript.",
+      "rlink": "https://github.com/AbyG1/simple-calculator",
+      "llink": "https://abyg1.github.io/simple-calculator/"
+    },
+    {
+      "id": "7",
+      "src": "./image/rockpaper.png",
+      "title": "Rock Paper Scissor",
+      "description": "Rock Paper Scissor, simple game using Javascript",
+      "rlink": "https://github.com/AbyG1/RockPaperScissor",
+      "llink": "https://abyg1.github.io/RockPaperScissor/"
+    },
+    {
+      "id": "8",
+      "src": "./image/carworld.png",
+      "title": "Car World",
+      "description": "A car world app using Javascript and localStorage to store data",
+      "rlink": "https://github.com/AbyG1/js-projects-luminar/tree/main/car-model",
+      "llink": "https://car-world-localstorage.netlify.app/"
+    },
+    {
+      "id": "9",
+      "src": "./image/expressbank.png",
+      "title": "Express Bank ",
+      "description": "A simple website using Javascript and localStorage to store data",
+      "rlink": "https://github.com/AbyG1/js-projects-luminar/tree/main/bank-site",
+      "llink": "https://bank-login-localstorage.netlify.app/"
+    },
+    {
+      "id": "10",
+      "src": "./image/furniture.png",
+      "title": "Furniture Forge",
+      "description": "A furniture showcase website using Bootstrap",
+      "rlink": "https://github.com/AbyG1/Bootstrap-task/tree/main/Furniture_site",
+      "llink": "https://furniture-forge.netlify.app/"
+    },
+
+    {
+      "id": "11",
+      "src": "./image/travel.png",
+      "title": "Against the compass",
+      "description": "A Travel blog clone using Bootstrap",
+      "rlink": "https://github.com/AbyG1/Bootstrap-task/tree/main/travel-vlog",
+      "llink": "https://against-the-compass.netlify.app/"
+    },
+    {
+      "id": "12",
+      "src": "./image/luminar.png",
+      "title": "Luminar Webpage ",
+      "description": "A clone of Luminar homepage using Bootstrap",
+      "rlink": "https://github.com/AbyG1/Bootstrap-task/tree/main/Luminar-website",
+      "llink": "https://luminar-technolab-clone.netlify.app/"
+    }
+  ]
+  
+}
